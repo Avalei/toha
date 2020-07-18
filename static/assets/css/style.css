@@ -111,11 +111,13 @@ img.right{
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
   overflow: hidden;
+  padding: 10px;
 }
 
 .card-img-sm {
   width: 32px;
   height: 32px;
+  margin-right: 10px;
 }
 
 .card-img-xs {
@@ -132,7 +134,6 @@ img.right{
 }
 
 .card .card-head {
-  height: 172px;
   object-fit: cover;
   overflow: hidden;
 }
@@ -151,7 +152,7 @@ img.right{
 }
 
 .card-body {
-  text-align: justify;
+  text-align: left;
 }
 
 .sub-title {
