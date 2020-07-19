@@ -123,6 +123,7 @@ img.right{
 .card-img-xs {
   width: 24px;
   height: 24px;
+  margin-right: 10px;
 }
 
 .card:hover,
