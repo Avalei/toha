@@ -10,7 +10,7 @@ markup:
       unsafe: true
 
 # Enable Google Analytics
-googleAnalytics: UA-xxxxxxxx
+googleAnalytics: UA-173057577-1
 
 # Enable Disqus forum
 disqusShortname: does-not-exist
